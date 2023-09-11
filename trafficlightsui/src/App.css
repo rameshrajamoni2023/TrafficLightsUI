@@ -1,0 +1,23 @@
+/* Add styles for the traffic light colors */
+.traffic-light {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.light-color-0 {
+    background-color: green;
+}
+
+.light-color-1 {
+    background-color: yellow;
+}
+
+.light-color-2 {
+    background-color: red;
+}
+
+
+
+/* Add more styles for other colors as needed */
